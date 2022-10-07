@@ -8,8 +8,3 @@
 
 
 [![hongmono's github stats](https://github-readme-stats.vercel.app/api?username=hongmono)](https://github.com/hongmono)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongmono)](https://github.com/hongmono/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongmono)](https://github.com/hongmono/github-readme-stats)
